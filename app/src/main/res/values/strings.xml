@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">educational_quiz</string>
+    <string name="mathematical_quiz_for_children">Mathematical Quiz for Children</string>
+    <string name="submit">submit</string>
+</resources>
